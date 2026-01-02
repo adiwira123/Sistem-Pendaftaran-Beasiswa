@@ -1,0 +1,26 @@
+[
+    {
+        "id": "reg_68dfd8a1c4698",
+        "nama": "Adiwira",
+        "email": "adiwirawahyuaji@gmail.com",
+        "hp": "0856",
+        "semester": 6,
+        "jenis_beasiswa": "non-akademik",
+        "ipk": 3.4,
+        "berkas": "1759500449_Gamelab_Laravel.pdf",
+        "status_ajuan": "belum di verifikasi",
+        "created_at": "2025-10-03T16:07:29+02:00"
+    },
+    {
+        "id": "reg_68dfde1ea2243",
+        "nama": "Adiwira",
+        "email": "adiwirawahyuaji@gmail.com",
+        "hp": "0856",
+        "semester": 7,
+        "jenis_beasiswa": "akademik",
+        "ipk": 3.4,
+        "berkas": "1759501854_PHP.pdf",
+        "status_ajuan": "belum di verifikasi",
+        "created_at": "2025-10-03T16:30:54+02:00"
+    }
+]
